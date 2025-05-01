@@ -3,7 +3,7 @@
 
 
 TODOS
-1. Implement LRU, LFU caches (key, value) -> (int, int)
+1. Implement LRU, LFU caches (key, value) -> (int, int) - done
 2. Make it generic
 3. Implement logic to select cache types
 4. Make it thread safe
